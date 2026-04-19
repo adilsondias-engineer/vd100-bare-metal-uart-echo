@@ -1,0 +1,11 @@
+# ninja log v5
+1	15	0	/work/versal/vd100-aie-pipeline/vd100-bare-metal-uart-echo/build/CMakeFiles/print_build_info	d5b4ee22060fc4c7
+15	166	1776584142939794024	CMakeFiles/vd100-bare-metal-uart-echo.elf.dir/main.cpp.obj	1eb44eaa360be299
+15	57	1776584142831429093	CMakeFiles/vd100-bare-metal-uart-echo.elf.dir/baremetal_metadata_compile.cpp.obj	28819e2d11160448
+1	15	0	CMakeFiles/print_build_info	d5b4ee22060fc4c7
+166	243	1776584142994246748	vd100-bare-metal-uart-echo.elf	8dea192758f8c1a5
+0	16	0	CMakeFiles/print_build_info	d5b4ee22060fc4c7
+0	16	0	/work/versal/vd100-aie-pipeline/vd100-bare-metal-uart-echo/build/CMakeFiles/print_build_info	d5b4ee22060fc4c7
+16	62	1776584566840683466	CMakeFiles/vd100-bare-metal-uart-echo.elf.dir/baremetal_metadata_compile.cpp.obj	28819e2d11160448
+16	168	1776584566946830912	CMakeFiles/vd100-bare-metal-uart-echo.elf.dir/main.cpp.obj	1eb44eaa360be299
+168	250	1776584567005173833	vd100-bare-metal-uart-echo.elf	8dea192758f8c1a5

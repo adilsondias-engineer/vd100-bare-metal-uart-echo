@@ -1,0 +1,4 @@
+/work/versal/vd100-aie-pipeline/vd100-bare-metal-uart-echo/build/CMakeFiles/vd100-bare-metal-uart-echo.elf.dir
+/work/versal/vd100-aie-pipeline/vd100-bare-metal-uart-echo/build/CMakeFiles/print_build_info.dir
+/work/versal/vd100-aie-pipeline/vd100-bare-metal-uart-echo/build/CMakeFiles/edit_cache.dir
+/work/versal/vd100-aie-pipeline/vd100-bare-metal-uart-echo/build/CMakeFiles/rebuild_cache.dir
